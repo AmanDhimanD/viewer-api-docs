@@ -1,0 +1,11 @@
+// register
+{
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "password": "securepassword"
+}
+// login 
+{
+  "email": "john.doe@example.com",
+  "password": "securepassword"
+}
