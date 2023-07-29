@@ -112,7 +112,7 @@ Retrieves a specific image using its unique ID.
 
 **POST New Image (with images/files)**
 ```
-POST http://localhost:8000/api/upload
+POST http://localhost:8000/api/images/upload
 ```
 Uploads a new image file. The request should include the image data.
 
