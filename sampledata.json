@@ -9,3 +9,12 @@
   "email": "john.doe@example.com",
   "password": "securepassword"
 }
+
+
+//demo login 
+{
+  "email": "demo@amandemo.com",
+  "password": "123"
+}
+
+  
